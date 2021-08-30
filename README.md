@@ -56,6 +56,7 @@ b. 25° e. 350°
 c. 80°f.620°
 
 **CAPITULO 16**
+
 25 Para la figura 16-53, si
 a. vL=40sen(wt+30°)V, iL=364sen(wt-60°)mA y L=2 mH, ¿cuál es el valor de f?
 b. iL=250sen(wt+40°)uA, vL=40sen(wt+ø)V, y f=500 kHz, ¿cuál es el valor de L y v?
