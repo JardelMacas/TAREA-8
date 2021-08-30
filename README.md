@@ -22,6 +22,7 @@ Objetivos Especificos
 **3. EXPLICACION Y RESOLUCION DE EJERCICIOS Y PROBLEMAS**
 
 **CAPITULO 15**
+
 1 ¿A que se refiere “voltaje de ca” y “corriente de ca"?
 
 3 a. ¿Qué significa valor instantáneo?
