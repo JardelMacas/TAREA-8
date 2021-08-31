@@ -55,6 +55,35 @@ a. 10° d. 150°
 b. 25° e. 350°
 c. 80° f. 620
 
+**15-5 Relaciones angular y gráfica paras las ondas seno**
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
+![image](https://user-images.githubusercontent.com/84453441/131560007-5cc6da4b-99b1-46ef-9041-a9dcddfa8ef3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
 ![image](https://user-images.githubusercontent.com/84357979/131504045-a43feb10-af49-4b28-abac-cb7251a1a9e6.png)
