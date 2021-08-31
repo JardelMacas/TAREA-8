@@ -160,6 +160,44 @@ d. Determine Vprom.
 
 
 ** CAPITULO 16 **
+13. Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
+
+![image](https://user-images.githubusercontent.com/84357979/131506274-e421a0c0-5eee-48ad-8dee-251299953534.png)
+
+a. Determine los fasores I_1,I_2  e I_T.
+b.  Determine la ecuación para I_T en el dominio del tiempo.
+
+![ejercicios13](https://user-images.githubusercontent.com/84357979/131506361-dc31568c-cfb4-4c5b-bd33-16118e10fc6b.png)
+
+![ejercicios14](https://user-images.githubusercontent.com/84357979/131506430-fcb57343-c35b-4ad1-9fac-764cbabeaccf.png)
+
+15. Para la figura 16-18, i_1=7 sen(wt)mA,i_2=4 sen(wt-90º)mA e i_3=6 sen(wt+90º)mA
+
+![image](https://user-images.githubusercontent.com/84357979/131506475-aa537b52-885b-48c8-bc0a-9480191aa824.png)
+
+![ejercicios15](https://user-images.githubusercontent.com/84357979/131506609-54f33275-e1db-401c-8581-85d6bb70e339.png)
+
+17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+
+![ejercicios16](https://user-images.githubusercontent.com/84357979/131506744-9d942b55-d3f6-4640-8b8f-341cbbbb7a22.png)
+
+19. Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA
+a. ¿Cuánto valen V_R1  y V_R2?
+
+![ejercicios17](https://user-images.githubusercontent.com/84357979/131506848-ed78b412-c396-49d4-98d9-049e3b60dc8e.png)
+
+21. Para la figura 16-53, V_m=10 e I_m=5 A. Para cada expresión, determine la cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/84357979/131506874-0416f494-ff91-4395-bcb4-6059d1c96e15.png)
+
+![ejercicios18](https://user-images.githubusercontent.com/84357979/131507131-41294f45-0843-468e-8691-f6df491eb8f5.png)
+
+23. Para la figura 16-53, e=100 sen(wt)  y L=0.5 H. Determinar i_L a…
+
+![image](https://user-images.githubusercontent.com/84357979/131507210-5d6a0eb5-1fc1-4598-ab11-9752ac72e916.png)
+
+![ejercicios19](https://user-images.githubusercontent.com/84357979/131507270-7dce663d-9f3a-49c6-b888-9f41f9b6ee1a.png)
+
 
 
 25 Para la figura 16-53, si
