@@ -226,6 +226,11 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 
 **4 VIDEO**
 
+Link del Video:  https://youtu.be/9m30monO0yY
+
+[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 15 y 16](https://img.youtube.com/vi/9m30monO0yY /0.jpg)](https://youtu.be/9m30monO0yY)
+
+
 **5. CONCLUSIONES**
 
 *
