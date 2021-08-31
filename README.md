@@ -58,28 +58,46 @@ c. 80° f. 620
 **15-5 Relaciones angular y gráfica paras las ondas seno**
 
 23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
-![image](https://user-images.githubusercontent.com/84453441/131560007-5cc6da4b-99b1-46ef-9041-a9dcddfa8ef3.png)
 
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 us. Determine Vm y dibuje la forma de onda.
 
+**15-6 Voltajes y corrientes como funciones del tiempo**
 
+27. Calcule w en radianes por segundo para cada uno de los siguientes casos:
 
+a. T = 100 ns
 
+b. f = 30 Hz
 
+c. 100 ciclos en 4 s
 
+d. Periodo = 20 ms
 
+e. 5 periodos en 20 ms
 
+29. Determine las ecuaciones para las ondas seno con lo siguiente:
 
+a. Vm = 170 V, f = 60 Hz
 
+b. Im = 40 uA, T = 10 ms
 
+c. T = 120 us, v = 10 V en t = 12 us
 
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
 
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
 
+35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
 
+37. Dada v = 5 sen (wt + 45°). Si w= 20 pi rad / s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
 
+39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
 
+41. Dada v = 30 sen (wt – 45°) donde w = 40 pi rad / s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
 
+**15-7 Introducción a los fasores**
 
-
+43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
 
 
 
