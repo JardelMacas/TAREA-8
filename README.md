@@ -160,6 +160,7 @@ d. Determine Vprom.
 
 
 ** CAPITULO 16 **
+
 13. Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
 
 ![image](https://user-images.githubusercontent.com/84357979/131506274-e421a0c0-5eee-48ad-8dee-251299953534.png)
