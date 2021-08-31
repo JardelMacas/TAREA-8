@@ -76,45 +76,10 @@ A esta retrasada 150º con respecto a B
 
 47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
 
-a.  i= 5sen (wt)
+![extra1](https://user-images.githubusercontent.com/84357979/131506045-f2b76400-8069-4139-b862-1f4c18bde32c.png)
 
-En el caso de considerar 2 medias ondas= Onda Completa
+![extra2](https://user-images.githubusercontent.com/84357979/131506147-49e3827d-3fe3-4d6c-812c-02022101e6a1.png)
 
-I_prom=0.637 I_m=0.637 (5)=3.185 A
-
-En el caso de considerar una Onda Completa
-
-I_prom=0 
-
-b. i= 40 cos(wt)
-
-En el caso de considerar 2 medias ondas= Onda Completa
-
-i_prom=0.637I_m=0.637(40)=25.48 A
-
-En el caso de considerar una Onda Completa
-
-I_prom=0 A
-
-c. v=400 sen(wt+30º)
-
-En el caso de considerar 2 medias ondas= Onda Completa
-
-V_prom=0.637 V_m=0.637(400)=254.8 V
-
-En el caso de considerar una Onda Completa
-
-V_prom=0 V
-
-d. v=20 cos⁡(2wt)
-
-En el caso de considerar 2 medias ondas= Onda Completa
-
-V_prom=0.637 V_m=0.637(20)=12.74 V
-
-En el caso de considerar una Onda Completa
-
-V_prom=0 V
 
 49. Calcule I_prom o V_prom para las formas de onda de la figura 15-88.
 
