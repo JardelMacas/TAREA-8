@@ -60,14 +60,18 @@ c. 80° f. 620
 ![image](https://user-images.githubusercontent.com/84357979/131504045-a43feb10-af49-4b28-abac-cb7251a1a9e6.png)
 
 V_1=Asen(wt-30)
+
 V_2=Asen(wt-120)
+
 
 A esta adelantada 90º con respecto a B (Se evidencia en la diferencia entre las Crestas)
 
 ![image](https://user-images.githubusercontent.com/84357979/131504057-2b77252f-fcdd-4f7e-b0ce-b9fa3604f714.png)
 
 V_1=Asen(wt+60º)
+
 V_2=Asen(wt-180º)
+
 A esta retrasada 150º con respecto a B
 
 47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
@@ -75,26 +79,41 @@ A esta retrasada 150º con respecto a B
 a.  i= 5sen (wt)
 
 En el caso de considerar 2 medias ondas= Onda Completa
+
 I_prom=0.637 I_m=0.637 (5)=3.185 A
+
 En el caso de considerar una Onda Completa
+
 I_prom=0 
 
 b. i= 40 cos(wt)
+
 En el caso de considerar 2 medias ondas= Onda Completa
+
 i_prom=0.637I_m=0.637(40)=25.48 A
+
 En el caso de considerar una Onda Completa
+
 I_prom=0 A
 
 c. v=400 sen(wt+30º)
+
 En el caso de considerar 2 medias ondas= Onda Completa
+
 V_prom=0.637 V_m=0.637(400)=254.8 V
+
 En el caso de considerar una Onda Completa
+
 V_prom=0 V
 
 d. v=20 cos⁡(2wt)
+
 En el caso de considerar 2 medias ondas= Onda Completa
+
 V_prom=0.637 V_m=0.637(20)=12.74 V
+
 En el caso de considerar una Onda Completa
+
 V_prom=0 V
 
 49. Calcule I_prom o V_prom para las formas de onda de la figura 15-88.
@@ -112,9 +131,13 @@ V_prom=0 V
 ![ejercicios3](https://user-images.githubusercontent.com/84357979/131504650-2c6b1221-cd4e-4cab-b122-70cce6f64552.png)
 
 51. Para el circuito de la figura 15-90, e= 25 sen wt V y un periodo de T= 120 ms.
+
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos
+
 b. Determine los voltajes pico y mínimo.
+
 c. Calcule v cuando t= 10,20,70 y 100 ms.
+
 d. Determine Vprom.
 
 ![image](https://user-images.githubusercontent.com/84357979/131504689-6a79a8d1-fbd3-4340-81a8-8ceba09a5990.png)
