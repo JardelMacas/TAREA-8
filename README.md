@@ -7,14 +7,17 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
 
 Objetivos Generales
 
-*
+* Establecer los conceptos fundamentales de la corriente alterna.
+*  Analizar el comportamiento de la corriente y voltaje en los elementos basicos de un circuito (R,L,C).
 
 Objetivos Especificos
 
-*
-*
-*
-*
+*  Analizar la diferencia entre voltajes y corrientes de ca con los  de cd.
+*  Analizar la estructura de las ondas definidas para corrientes y voltajes de ca.
+* Describir la estructura y el uso del fasor para definir corrientes y voltajes en ca.
+* Representar los fasores de voltaje y corriente de ca como numeros complejos.
+* Definir las operaciones de adicion y  producto para corrientes y voltajes mediante fasores.
+* Describir conceptos de impedancia para elementos  de circuito R,L y C.
 
 **2.MARCO TEORICO**
 
