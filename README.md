@@ -89,6 +89,7 @@ b. Im = 40 uA, T = 10 ms
 
 c. T = 120 us, v = 10 V en t = 12 us
 ![29](https://user-images.githubusercontent.com/84453441/131564307-ec039bf5-9ec1-4755-aa60-de57fa184785.png)
+![29-1](https://user-images.githubusercontent.com/84453441/131565632-6f4468f9-9247-41a4-835c-95a76da67ef4.png)
 
 31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
 ![31](https://user-images.githubusercontent.com/84453441/131564391-d6491b25-0697-4cef-9a88-a6e56daf1e1f.png)
@@ -112,6 +113,7 @@ c. T = 120 us, v = 10 V en t = 12 us
 41. Dada v = 30 sen (wt – 45°) donde w = 40 pi rad / s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
 ![41](https://user-images.githubusercontent.com/84453441/131563695-b2a7ad93-9dbe-4fb7-90db-9976577f2a2f.png)
 ![image](https://user-images.githubusercontent.com/84453441/131563666-6c2de6d1-e654-4de3-9fae-0bde854721dc.png)
+![41-1](https://user-images.githubusercontent.com/84453441/131565561-8207bd59-3421-4da8-823a-6130573ff496.png)
 
 **15-7 Introducción a los fasores**
 
