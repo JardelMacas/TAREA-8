@@ -57,7 +57,7 @@ c. 80° f. 620
 
 45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
-![image](https://user-images.githubusercontent.com/84357979/131504045-a43feb10-af49-4b28-abac-cb7251a1a9e6.png
+![image](https://user-images.githubusercontent.com/84357979/131504045-a43feb10-af49-4b28-abac-cb7251a1a9e6.png)
 
 V_1=Asen(wt-30)
 V_2=Asen(wt-120)
