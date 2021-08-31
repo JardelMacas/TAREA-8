@@ -238,16 +238,18 @@ b. 9 - j6
 c. -8 + j15
 
 d. -10 - j4
+![1](https://user-images.githubusercontent.com/84453441/131580068-246cab75-b630-45c4-87b5-7bdb1e16c931.png)
 
 3. Grafique cada uno de los siguientes valores en el plano complejo:
 
 a. 4 + j6
 
-b.j4
+b. j4
 
 c. 6 < -90° 
 
 d. 10 < 135°
+![3](https://user-images.githubusercontent.com/84453441/131580088-29c14b0e-626e-49bb-b420-a8ec1d6d786b.png)
 
 5. Exprese sus respuestas en forma rectangular.
 
@@ -262,6 +264,7 @@ d. 2.9 < 25° - 7.3 < -5°
 e. 9.2 < -120° - (2.6 + j4.1)
 
 f. 1/3 + j4 + 1/8 – j6
+![5](https://user-images.githubusercontent.com/84453441/131580102-b14f29f1-e06b-4554-8b6d-00dc71232994.png)
 
 7. Reduzca cada corriente siguiente a forma polar:
 
@@ -270,13 +273,16 @@ a. 15 - j6 – (18 < 40° + (12 + j8) / 11 + j11)
 b. 21 < 20° - j41 / 36 < 0° + (1 + j12) – 11 < 40°
 
 c. 18 < 40° - 18 < -40° / 7 + j12 - 16 + j17 + 21 < 60° / 4
+![7](https://user-images.githubusercontent.com/84453441/131580119-4573eeee-49d5-4671-9828-3ff2a4cde66b.png)
+![7-1](https://user-images.githubusercontent.com/84453441/131580127-2990bef2-8a27-497f-bc83-a5c3fe678b32.png)
 
-16 - 2 Números complejos en análisis de ca
+**16-2 Números complejos en análisis de ca**
 
 9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16 - 48.
+![9](https://user-images.githubusercontent.com/84453441/131580198-1543ceab-6353-48f7-b37c-70ce2500830f.png)
 
 11. Repita el problema 10 para v = e1 - e2.
-
+![11](https://user-images.githubusercontent.com/84453441/131580283-730c80f8-6823-457a-953c-8e819a43202e.png)
 ![image](https://user-images.githubusercontent.com/84453441/131578460-e429ef50-9d99-4f93-bfe3-7b0f867109fc.png)
 
 13. Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
