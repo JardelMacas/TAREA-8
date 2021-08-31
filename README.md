@@ -360,10 +360,12 @@ Link del Video:  https://youtu.be/9m30monO0yY
 
 **5. CONCLUSIONES**
 
-*
-*
-*
-*
+* Los voltajes y corrientes en ca se representan mediante ondas sinuidales que varian en el tiempo tomando valores pico o minimos, en este mismo esquema, las corrientes y voltajes de cd representan constantes en el tiempo.
+* Al definir corrientes y voltajes mediante ondas sinuidales, estas tienen ciertas caracteristicas como Amplitud, Periodo, Frecuencia,fase y velocidad angular, las cuales definen su variacion en el tiempo y su retraso o adelanto con respecto a otras funciones.
+* Analizar circuitos en el dominio del tiempo puede involucar mucho calculo y volverse complicado, para esto se debe emplear el fasor y analizar los circuitos en el dominio de los fasores.
+* los fasores vienen representados en  funcion de una magnitud y un angulo (similar a las coordenadas polares), pero tambien se pueden aplicar conversiones para describirlos como numeros complejos (similar al sistema rectangular de los reales)
+*  Para la adicion los fasores se  pueden operar mediante su representacion en numeros complejos, en cambio para el producto se recomienda operarlos en su forma grafica (fasor).
+*  Los Capacitores e Inductores se oponen al cambio directo del voltaje y la corriente respectivamente, creando reactancias inductivas y reactancias capacitivas, estos factores junto a la corriente efectiva o voltaje efectivo conforman el concepto de Impedancia en un circuito, para el caso de las resistencias no generan impedancia alguna.
 
 
 **6. BIBLIOGRAFIA**
