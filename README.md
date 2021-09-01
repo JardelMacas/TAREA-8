@@ -343,22 +343,27 @@ a. ¿Cuánto valen V_R1  y V_R2?
 25 Para la figura 16-53, si
 a. vL=40sen(wt+30°)V, iL=364sen(wt-60°)mA y L=2 mH, ¿cuál es el valor de f?
 b. iL=250sen(wt+40°)uA, vL=40sen(wt+ø)V, y f=500 kHz, ¿cuál es el valor de L y v?
+![Screenshot_20210831-235723_Drive](https://user-images.githubusercontent.com/86451564/131614360-521e0c54-1e7b-4d83-baf0-a180983fd138.jpg)
 
 27 ¿Cuál es la reactancia de un capacitor de 5 F a. . .
 a. 60 Hz b. 1000 Hz c. 500 rads
+![Screenshot_20210831-235804_Drive](https://user-images.githubusercontent.com/86451564/131614423-2d19730a-5cea-4906-8f86-e53530c878bb.jpg)
 
 29 Para la figura 16-54, C=50 uF. 
 a. vC=100 sen377t V, ¿cuánto vale iC?
 b. iC=10sen(2pi×400t-60°), ¿cuánto vale vC?
+![Screenshot_20210831-235858_Drive](https://user-images.githubusercontent.com/86451564/131614492-8dd5a2e1-95b8-40da-8937-f1e2338bb838.jpg)
 
 31 Determine la impedancia de cada elemento de circuito de la figura 16-55.
+![Screenshot_20210831-235943_Drive](https://user-images.githubusercontent.com/86451564/131614557-df56c7d5-f949-4663-8fc8-4f67ef5ec796.jpg)
 
 33 Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0:
 a. Determine cada voltaje en forma fasorial.
 b. Exprese cada voltaje en forma del dominio del tiempo.
+![Screenshot_20210901-000043_Drive](https://user-images.githubusercontent.com/86451564/131614616-015d48d2-4e26-476a-926b-1c335b70585e.jpg)
 
 35 Para cada circuito de la figura 16-57 determine la incógnita.
-
+![Screenshot_20210901-000125_Drive](https://user-images.githubusercontent.com/86451564/131614666-baa5802f-5cdc-4dad-a073-6400b72c5796.jpg)
 
 
 
