@@ -21,6 +21,7 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
+![RESUMEN CAP 16](https://user-images.githubusercontent.com/84453441/131595426-7bb62c78-dca5-4ff0-b4c1-9ec0e3037375.png)
 
 **3. EXPLICACION Y RESOLUCION DE EJERCICIOS Y PROBLEMAS**
 
