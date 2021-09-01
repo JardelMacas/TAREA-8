@@ -21,6 +21,7 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 * Capitulo 15 *
+![downloadfile(1)_page-0001](https://user-images.githubusercontent.com/86451564/131681811-a46c5b4c-3651-48a7-9b01-6b689943d9d9.jpg)
 
 ![RESUMEN CAP 16](https://user-images.githubusercontent.com/84453441/131595426-7bb62c78-dca5-4ff0-b4c1-9ec0e3037375.png)
 
