@@ -28,36 +28,47 @@ Objetivos Especificos
 **CAPITULO 15**
 
 1 ¿A que se refiere “voltaje de ca” y “corriente de ca"?
+![Screenshot_20210831-234247_Drive](https://user-images.githubusercontent.com/86451564/131613293-7eaaf06d-06bd-4af3-af61-773fcfd69ff3.jpg)
 
 3 a. ¿Qué significa valor instantáneo?
 b. Para la figura 15-74, determine los voltajes instantáneos en t 0, 1, 2, 3,4, 5, 6, 7 y 8 ms.
+![Screenshot_20210831-234511_Drive](https://user-images.githubusercontent.com/86451564/131613384-ffe2d578-fd3e-4ed5-8b69-1e7d1961e8b6.jpg)
 
 5 La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Deter-
 mine la corriente en t= 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+![Screenshot_20210831-234610_Drive](https://user-images.githubusercontent.com/86451564/131613487-3edd0b04-ac95-4f37-8093-1cee6bcd75bb.jpg)
 
 7 Para cada uno de los siguientes, determine la frecuencia:
 a. T=0.5 s
 b. T=100 s 
 c. 5T=80 us
+![Screenshot_20210831-234741_Drive](https://user-images.githubusercontent.com/86451564/131613562-1a86fafa-5da5-4189-8c18-f02577109f6a.jpg)
 
 9 Determine el periodo y la frecuencia de la forma de onda de la figura 15-7BI
+![Screenshot_20210831-234835_Drive](https://user-images.githubusercontent.com/86451564/131613644-116e66f5-5613-4a3c-aa5f-1514184f302d.jpg)
 
 11 ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico
 a pico de la figura 15-78?
+![Screenshot_20210831-234938_Drive](https://user-images.githubusercontent.com/86451564/131613724-8dc6aa1c-a1a3-4233-b686-3fa63e981e44.jpg)
 
 13 ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cua-
 drada con una frecuencia de 847 Hz?
+![Screenshot_20210831-235035_Drive](https://user-images.githubusercontent.com/86451564/131613791-95419233-cf9c-4a2d-a077-bd3440d40435.jpg)
 
 15 Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1=0.25T2 y f1=10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+![Screenshot_20210831-235125_Drive](https://user-images.githubusercontent.com/86451564/131613860-fd5d8d36-dbc5-455e-b247-4b2783fbb54c.jpg)
 
 17 Dado el voltaje v=Vm sen a. Si Vm=240 V, ¿qué valor tiene v cuando a=37°?
+![Screenshot_20210831-235218_Drive](https://user-images.githubusercontent.com/86451564/131613944-047b68a9-ea4e-4d32-a396-47d2445e9a4a.jpg)
 
 19 Un voltaje sinusoidal tiene un valor de 50 V cuando a=150°¿Qué valor tiene Vm?
+![Screenshot_20210831-235311_Drive](https://user-images.githubusercontent.com/86451564/131613998-906bfa2e-12b2-4920-83e2-50358f1745e1.jpg)
 
 21 Convierta los siguientes ángulos de grados a radianes:
 a. 10° d. 150°
 b. 25° e. 350°
 c. 80° f. 620
+![Screenshot_20210831-235403_Drive](https://user-images.githubusercontent.com/86451564/131614081-151bed4f-0e5f-4bed-963d-afdc71e76243.jpg)
 
 **15-5 Relaciones angular y gráfica paras las ondas seno**
 
