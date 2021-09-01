@@ -20,6 +20,7 @@ Objetivos Especificos
 * Describir conceptos de impedancia para elementos  de circuito R,L y C.
 
 **2.MARCO TEORICO**
+* Capitulo 15 *
 
 ![RESUMEN CAP 16](https://user-images.githubusercontent.com/84453441/131595426-7bb62c78-dca5-4ff0-b4c1-9ec0e3037375.png)
 
