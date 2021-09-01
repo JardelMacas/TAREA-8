@@ -75,7 +75,7 @@ c. 80° f. 620
 
 **15-5 Relaciones angular y gráfica paras las ondas seno**
 
-23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
+23 Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
 
 ![image](https://user-images.githubusercontent.com/84453441/131561846-73009b4f-8157-48b2-b4c7-cc7800b1c89c.png)
 ![23](https://user-images.githubusercontent.com/84453441/131562335-d57dcef2-5688-4af4-94d5-aad9e7d9cfdf.png)
@@ -109,37 +109,37 @@ c. T = 120 us, v = 10 V en t = 12 us
 ![29](https://user-images.githubusercontent.com/84453441/131564307-ec039bf5-9ec1-4755-aa60-de57fa184785.png)
 ![29-1](https://user-images.githubusercontent.com/84453441/131565632-6f4468f9-9247-41a4-835c-95a76da67ef4.png)
 
-31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
+31 Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
 ![31](https://user-images.githubusercontent.com/84453441/131564391-d6491b25-0697-4cef-9a88-a6e56daf1e1f.png)
 
-33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
+33 Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
 ![33](https://user-images.githubusercontent.com/84453441/131564407-2296a797-feec-4524-82be-06ddb17b0bb0.png)
 
-35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
+35 Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
 
 ![image](https://user-images.githubusercontent.com/84453441/131563083-9b71ab9e-cec3-4710-95fd-4bc107ac9edf.png)
 ![35](https://user-images.githubusercontent.com/84453441/131564453-bdd3053a-69ca-4364-a7ed-560b13c1f0dc.png)
 
-37. Dada v = 5 sen (wt + 45°). Si w= 20 pi rad / s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
+37 Dada v = 5 sen (wt + 45°). Si w= 20 pi rad / s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
 ![37](https://user-images.githubusercontent.com/84453441/131564487-c4bb7481-a5e2-4267-8f9f-59c2729c7cc1.png)
 
-39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
+39 Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
 
 ![image](https://user-images.githubusercontent.com/84453441/131563378-cf641fe4-95f7-4d10-b1eb-e5823ddf1ee2.png)
 ![39](https://user-images.githubusercontent.com/84453441/131564538-161cdad4-9faa-4c4c-ac8f-ea32b5a8b07e.png)
 
-41. Dada v = 30 sen (wt – 45°) donde w = 40 pi rad / s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
+41 Dada v = 30 sen (wt – 45°) donde w = 40 pi rad / s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
 ![41](https://user-images.githubusercontent.com/84453441/131563695-b2a7ad93-9dbe-4fb7-90db-9976577f2a2f.png)
 ![image](https://user-images.githubusercontent.com/84453441/131563666-6c2de6d1-e654-4de3-9fae-0bde854721dc.png)
 ![41-1](https://user-images.githubusercontent.com/84453441/131565561-8207bd59-3421-4da8-823a-6130573ff496.png)
 
 **15-7 Introducción a los fasores**
 
-43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
+43 Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
 ![43](https://user-images.githubusercontent.com/84453441/131564630-3739238e-bc79-4909-97d8-f70d5b3c0a3f.png)
 ![43-1](https://user-images.githubusercontent.com/84453441/131564657-a74f4b39-6e67-468c-9cae-fc3d1873d00d.png)
 
-45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+45 Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
 ![image](https://user-images.githubusercontent.com/84357979/131504045-a43feb10-af49-4b28-abac-cb7251a1a9e6.png)
 
@@ -158,14 +158,14 @@ V_2=Asen(wt-180º)
 
 A esta retrasada 150º con respecto a B
 
-47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+47 ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
 
 ![extra1](https://user-images.githubusercontent.com/84357979/131506045-f2b76400-8069-4139-b862-1f4c18bde32c.png)
 
 ![extra2](https://user-images.githubusercontent.com/84357979/131506147-49e3827d-3fe3-4d6c-812c-02022101e6a1.png)
 
 
-49. Calcule I_prom o V_prom para las formas de onda de la figura 15-88.
+49 Calcule I_prom o V_prom para las formas de onda de la figura 15-88.
 
 ![image](https://user-images.githubusercontent.com/84357979/131504402-669a08db-07bb-4156-a32f-b58455adff27.png)
 
@@ -179,7 +179,7 @@ A esta retrasada 150º con respecto a B
 
 ![ejercicios3](https://user-images.githubusercontent.com/84357979/131504650-2c6b1221-cd4e-4cab-b122-70cce6f64552.png)
 
-51. Para el circuito de la figura 15-90, e= 25 sen wt V y un periodo de T= 120 ms.
+51 Para el circuito de la figura 15-90, e= 25 sen wt V y un periodo de T= 120 ms.
 
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos
 
@@ -195,21 +195,21 @@ d. Determine Vprom.
 
 ![ejercicios4](https://user-images.githubusercontent.com/84357979/131504786-5bff55cb-fbed-4d77-a326-41342af5d362.png)
 
-53. Utilice el cálculo, para encontrar el valor promedio para la figura 15-91.
+53 Utilice el cálculo, para encontrar el valor promedio para la figura 15-91.
 
 ![image](https://user-images.githubusercontent.com/84357979/131504812-45a36c7e-f9ba-4a7e-ae04-3ddb5b40044b.png)
 
 ![ejercicios5](https://user-images.githubusercontent.com/84357979/131504890-567b6c85-4fc7-4ae0-aced-efd92cad99d4.png)
 
-55. Determine los valores efectivos para cada uno de los siguientes casos:
+55 Determine los valores efectivos para cada uno de los siguientes casos:
 
 ![ejercicios6](https://user-images.githubusercontent.com/84357979/131504987-c19caa04-e655-46f3-822e-e67a8c16cd69.png)
 
-57. Determine los valores de la raíz cuadrática media para
+57 Determine los valores de la raíz cuadrática media para
 
 ![ejercicios7](https://user-images.githubusercontent.com/84357979/131505100-21a36b89-f735-47f4-9bc9-659e745ef16c.png)
 
-59. Calcule los valores rms para las formas de onda de la figura 15-92.
+59 Calcule los valores rms para las formas de onda de la figura 15-92.
 
 ![image](https://user-images.githubusercontent.com/84357979/131505125-8f9319b1-9e72-4037-af0e-9bd8bfd1045a.png)
 
@@ -223,7 +223,7 @@ d. Determine Vprom.
 
 ![ejercicios9](https://user-images.githubusercontent.com/84357979/131505273-c52dd9e6-39ec-47db-8158-3f1b5ea07fd8.png)
 
-61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+61 Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
 
 ![image](https://user-images.githubusercontent.com/84357979/131505297-7d3afdd5-8354-4094-9dee-27db7cba0a60.png)
 
@@ -232,13 +232,13 @@ d. Determine Vprom.
 ![ejercicios10](https://user-images.githubusercontent.com/84357979/131505372-26f9ae89-8d4f-4933-9baf-7009b4f8d19f.png)
 
 
-63. Repita el problema 62, use cálculo para manejar la porción triangular. (Calcular el valor rms de la forma de onda de la figura)
+63 Repita el problema 62, use cálculo para manejar la porción triangular. (Calcular el valor rms de la forma de onda de la figura)
 
 ![image](https://user-images.githubusercontent.com/84357979/131505403-83f89ba6-4e81-4d61-9a00-fbc438fbeb4d.png)
 
 ![ejercicios11](https://user-images.githubusercontent.com/84357979/131505469-cdc964b7-1d8b-4e90-8245-91a3409e8016.png)
 
-65) Repita el problema 64 con un medidor de rms verdadero.
+65 Repita el problema 64 con un medidor de rms verdadero.
 
 ![ejercicios12](https://user-images.githubusercontent.com/84357979/131505565-0612bf26-1aa7-439b-907f-9d6ad8e6af4e.png)
 
