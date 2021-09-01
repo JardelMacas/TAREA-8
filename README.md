@@ -247,7 +247,7 @@ d. Determine Vprom.
 
 **16-1Repaso de números complejos**
 
-1. Convierta cada uno de los siguientes números a forma polar:
+1 Convierta cada uno de los siguientes números a forma polar:
 
 a. 5 + j12
 
@@ -258,7 +258,7 @@ c. -8 + j15
 d. -10 - j4
 ![1](https://user-images.githubusercontent.com/84453441/131580068-246cab75-b630-45c4-87b5-7bdb1e16c931.png)
 
-3. Grafique cada uno de los siguientes valores en el plano complejo:
+3 Grafique cada uno de los siguientes valores en el plano complejo:
 
 a. 4 + j6
 
@@ -269,7 +269,7 @@ c. 6 < -90°
 d. 10 < 135°
 ![3](https://user-images.githubusercontent.com/84453441/131580088-29c14b0e-626e-49bb-b420-a8ec1d6d786b.png)
 
-5. Exprese sus respuestas en forma rectangular.
+5 Exprese sus respuestas en forma rectangular.
 
 a. (4 + j8) + (3 - j2)
 
@@ -284,7 +284,7 @@ e. 9.2 < -120° - (2.6 + j4.1)
 f. 1/3 + j4 + 1/8 – j6
 ![5](https://user-images.githubusercontent.com/84453441/131580102-b14f29f1-e06b-4554-8b6d-00dc71232994.png)
 
-7. Reduzca cada corriente siguiente a forma polar:
+7 Reduzca cada corriente siguiente a forma polar:
 
 a. 15 - j6 – (18 < 40° + (12 + j8) / 11 + j11)  
 
@@ -296,14 +296,14 @@ c. 18 < 40° - 18 < -40° / 7 + j12 - 16 + j17 + 21 < 60° / 4
 
 **16-2 Números complejos en análisis de ca**
 
-9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16 - 48.
+9 Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16 - 48.
 ![9](https://user-images.githubusercontent.com/84453441/131580198-1543ceab-6353-48f7-b37c-70ce2500830f.png)
 
-11. Repita el problema 10 para v = e1 - e2.
+11 Repita el problema 10 para v = e1 - e2.
 ![11](https://user-images.githubusercontent.com/84453441/131580283-730c80f8-6823-457a-953c-8e819a43202e.png)
 ![image](https://user-images.githubusercontent.com/84453441/131578460-e429ef50-9d99-4f93-bfe3-7b0f867109fc.png)
 
-13. Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
+13 Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
 
 ![image](https://user-images.githubusercontent.com/84357979/131506274-e421a0c0-5eee-48ad-8dee-251299953534.png)
 
@@ -314,28 +314,28 @@ b.  Determine la ecuación para I_T en el dominio del tiempo.
 
 ![ejercicios14](https://user-images.githubusercontent.com/84357979/131506430-fcb57343-c35b-4ad1-9fac-764cbabeaccf.png)
 
-15. Para la figura 16-18, i_1=7 sen(wt)mA,i_2=4 sen(wt-90º)mA e i_3=6 sen(wt+90º)mA
+15 Para la figura 16-18, i_1=7 sen(wt)mA,i_2=4 sen(wt-90º)mA e i_3=6 sen(wt+90º)mA
 
 ![image](https://user-images.githubusercontent.com/84357979/131506475-aa537b52-885b-48c8-bc0a-9480191aa824.png)
 
 ![ejercicios15](https://user-images.githubusercontent.com/84357979/131506609-54f33275-e1db-401c-8581-85d6bb70e339.png)
 
-17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+17 Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
 ![ejercicios16](https://user-images.githubusercontent.com/84357979/131506744-9d942b55-d3f6-4640-8b8f-341cbbbb7a22.png)
 
-19. Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA
+19 Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA
 a. ¿Cuánto valen V_R1  y V_R2?
 
 ![ejercicios17](https://user-images.githubusercontent.com/84357979/131506848-ed78b412-c396-49d4-98d9-049e3b60dc8e.png)
 
-21. Para la figura 16-53, V_m=10 e I_m=5 A. Para cada expresión, determine la cantidad solicitada.
+21 Para la figura 16-53, V_m=10 e I_m=5 A. Para cada expresión, determine la cantidad solicitada.
 
 ![image](https://user-images.githubusercontent.com/84357979/131506874-0416f494-ff91-4395-bcb4-6059d1c96e15.png)
 
 ![ejercicios18](https://user-images.githubusercontent.com/84357979/131507131-41294f45-0843-468e-8691-f6df491eb8f5.png)
 
-23. Para la figura 16-53, e=100 sen(wt)  y L=0.5 H. Determinar i_L a…
+23 Para la figura 16-53, e=100 sen(wt)  y L=0.5 H. Determinar i_L a…
 
 ![image](https://user-images.githubusercontent.com/84357979/131507210-5d6a0eb5-1fc1-4598-ab11-9752ac72e916.png)
 
