@@ -366,8 +366,6 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 ![Screenshot_20210901-000125_Drive](https://user-images.githubusercontent.com/86451564/131614666-baa5802f-5cdc-4dad-a073-6400b72c5796.jpg)
 
 
-
-
 **4 VIDEO**
 
 Link del Video:  https://youtu.be/9m30monO0yY
